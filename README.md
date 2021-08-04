@@ -1,5 +1,5 @@
 # MC Dropout Notebooks
-Source code for the ICML2021 workshop paper *[Notes on the behaviour of MC Dropout](https://arxiv.org/abs/2008.02627)*
+Source code for the ICML2021 workshop paper *[Notes on the behavior of MC Dropout](https://arxiv.org/abs/2008.02627)*
 
 
 Code will be released soon
